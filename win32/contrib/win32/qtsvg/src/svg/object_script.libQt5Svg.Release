@@ -1,0 +1,14 @@
+CREATE ../../lib/libQt5Svg.a
+ADDMOD .obj/release/qsvggraphics.o
+ADDMOD .obj/release/qsvghandler.o
+ADDMOD .obj/release/qsvgnode.o
+ADDMOD .obj/release/qsvgstructure.o
+ADDMOD .obj/release/qsvgstyle.o
+ADDMOD .obj/release/qsvgfont.o
+ADDMOD .obj/release/qsvgtinydocument.o
+ADDMOD .obj/release/qsvgrenderer.o
+ADDMOD .obj/release/qsvgwidget.o
+ADDMOD .obj/release/qgraphicssvgitem.o
+ADDMOD .obj/release/qsvggenerator.o
+ADDMOD .obj/release/moc_qsvgwidget.o
+SAVE
