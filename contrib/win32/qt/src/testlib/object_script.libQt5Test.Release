@@ -1,0 +1,26 @@
+CREATE ../../lib/libQt5Test.a
+ADDMOD .obj/release/qtestcase.o
+ADDMOD .obj/release/qtestlog.o
+ADDMOD .obj/release/qtesttable.o
+ADDMOD .obj/release/qtestdata.o
+ADDMOD .obj/release/qtestresult.o
+ADDMOD .obj/release/qasciikey.o
+ADDMOD .obj/release/qplaintestlogger.o
+ADDMOD .obj/release/qxmltestlogger.o
+ADDMOD .obj/release/qsignaldumper.o
+ADDMOD .obj/release/qabstracttestlogger.o
+ADDMOD .obj/release/qbenchmark.o
+ADDMOD .obj/release/qbenchmarkmeasurement.o
+ADDMOD .obj/release/qbenchmarkvalgrind.o
+ADDMOD .obj/release/qbenchmarkevent.o
+ADDMOD .obj/release/qbenchmarkperfevents.o
+ADDMOD .obj/release/qbenchmarkmetric.o
+ADDMOD .obj/release/qcsvbenchmarklogger.o
+ADDMOD .obj/release/qtestelement.o
+ADDMOD .obj/release/qtestelementattribute.o
+ADDMOD .obj/release/qtestmouse.o
+ADDMOD .obj/release/qtestxunitstreamer.o
+ADDMOD .obj/release/qxunittestlogger.o
+ADDMOD .obj/release/qtestblacklist.o
+ADDMOD .obj/release/moc_qtesteventloop.o
+SAVE

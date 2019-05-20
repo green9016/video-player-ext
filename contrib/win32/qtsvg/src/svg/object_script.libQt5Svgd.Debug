@@ -1,0 +1,14 @@
+CREATE ../../lib/libQt5Svgd.a
+ADDMOD .obj/debug/qsvggraphics.o
+ADDMOD .obj/debug/qsvghandler.o
+ADDMOD .obj/debug/qsvgnode.o
+ADDMOD .obj/debug/qsvgstructure.o
+ADDMOD .obj/debug/qsvgstyle.o
+ADDMOD .obj/debug/qsvgfont.o
+ADDMOD .obj/debug/qsvgtinydocument.o
+ADDMOD .obj/debug/qsvgrenderer.o
+ADDMOD .obj/debug/qsvgwidget.o
+ADDMOD .obj/debug/qgraphicssvgitem.o
+ADDMOD .obj/debug/qsvggenerator.o
+ADDMOD .obj/debug/moc_qsvgwidget.o
+SAVE

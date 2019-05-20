@@ -1,0 +1,22 @@
+CREATE ../../lib/libQt5PrintSupport.a
+ADDMOD .obj/release/qpaintengine_alpha.o
+ADDMOD .obj/release/qpaintengine_preview.o
+ADDMOD .obj/release/qprintdevice.o
+ADDMOD .obj/release/qprintengine_pdf.o
+ADDMOD .obj/release/qprinter.o
+ADDMOD .obj/release/qprinterinfo.o
+ADDMOD .obj/release/qplatformprintdevice.o
+ADDMOD .obj/release/qplatformprintplugin.o
+ADDMOD .obj/release/qplatformprintersupport.o
+ADDMOD .obj/release/qprintengine_win.o
+ADDMOD .obj/release/qprintpreviewwidget.o
+ADDMOD .obj/release/qpagesetupdialog_win.o
+ADDMOD .obj/release/qprintdialog_win.o
+ADDMOD .obj/release/qabstractprintdialog.o
+ADDMOD .obj/release/qpagesetupdialog.o
+ADDMOD .obj/release/qprintpreviewdialog.o
+ADDMOD .obj/release/qrc_qprintdialog.o
+ADDMOD .obj/release/moc_qplatformprintplugin.o
+ADDMOD .obj/release/moc_qabstractprintdialog.o
+ADDMOD .obj/release/moc_qpagesetupdialog.o
+SAVE

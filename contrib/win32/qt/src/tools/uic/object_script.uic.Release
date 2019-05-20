@@ -1,0 +1,17 @@
+INPUT(
+./.obj/release/customwidgetsinfo.o
+./.obj/release/databaseinfo.o
+./.obj/release/driver.o
+./.obj/release/treewalker.o
+./.obj/release/ui4.o
+./.obj/release/validator.o
+./.obj/release/cppextractimages.o
+./.obj/release/cppwritedeclaration.o
+./.obj/release/cppwriteicondata.o
+./.obj/release/cppwriteicondeclaration.o
+./.obj/release/cppwriteiconinitialization.o
+./.obj/release/cppwriteincludes.o
+./.obj/release/cppwriteinitialization.o
+./.obj/release/main.o
+./.obj/release/uic.o
+);

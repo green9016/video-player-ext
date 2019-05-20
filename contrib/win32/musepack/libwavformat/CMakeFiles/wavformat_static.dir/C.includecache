@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/osboxes/Documents/vlc-3.0/contrib/win32/musepack/libwavformat/input.c
+libwaveformat.h
+/home/osboxes/Documents/vlc-3.0/contrib/win32/musepack/libwavformat/libwaveformat.h
+
+/home/osboxes/Documents/vlc-3.0/contrib/win32/musepack/libwavformat/libwaveformat.h
+stdint.h
+-
+
+/home/osboxes/Documents/vlc-3.0/contrib/win32/musepack/libwavformat/output.c
+libwaveformat.h
+/home/osboxes/Documents/vlc-3.0/contrib/win32/musepack/libwavformat/libwaveformat.h
+

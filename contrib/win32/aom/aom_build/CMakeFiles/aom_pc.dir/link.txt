@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libaom_pc.a  CMakeFiles/aom_pc.dir/aom_pc_dummy.c.obj
+/usr/bin/i686-w64-mingw32-ranlib libaom_pc.a

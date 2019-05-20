@@ -1,0 +1,1 @@
+-I/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/src -I/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/include -I/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include -I/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/libvorbis-1.3.5/include -I/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/libvorbis-1.3.5/lib 

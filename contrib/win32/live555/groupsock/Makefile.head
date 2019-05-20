@@ -1,0 +1,6 @@
+INCLUDES = -Iinclude -I../UsageEnvironment/include
+PREFIX = /usr/local
+LIBDIR = $(PREFIX)/lib
+##### Change the following for your environment:
+PREFIX = /home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32
+LIBDIR = /home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib

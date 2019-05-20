@@ -1,0 +1,4 @@
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/libx265.a
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/x265.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/x265_config.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/pkgconfig/x265.pc

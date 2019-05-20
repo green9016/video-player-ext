@@ -1,0 +1,12 @@
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/libsrt.a
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/srt.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/logging_api.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/platform_sys.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/udt.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/srt4udt.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/wintime.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/syslog_defs.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/win/wintime.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/srt/win/syslog_defs.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/pkgconfig/haisrt.pc
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/pkgconfig/srt.pc

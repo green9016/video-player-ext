@@ -1,0 +1,7 @@
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/install/strip.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/edit_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/srt.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/list_install_components.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/install/local.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/CMakeFiles/install.dir

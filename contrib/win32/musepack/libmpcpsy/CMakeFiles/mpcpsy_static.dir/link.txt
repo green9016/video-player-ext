@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libmpcpsy_static.a  CMakeFiles/mpcpsy_static.dir/ans.obj CMakeFiles/mpcpsy_static.dir/cvd.obj CMakeFiles/mpcpsy_static.dir/fft4g.obj CMakeFiles/mpcpsy_static.dir/fft_routines.obj CMakeFiles/mpcpsy_static.dir/profile.obj CMakeFiles/mpcpsy_static.dir/psy.obj CMakeFiles/mpcpsy_static.dir/psy_tab.obj CMakeFiles/mpcpsy_static.dir/__/common/fastmath.obj
+/usr/bin/i686-w64-mingw32-ranlib libmpcpsy_static.a

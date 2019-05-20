@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/gme_player.dir/objects.a
+/usr/bin/i686-w64-mingw32-ar cr CMakeFiles/gme_player.dir/objects.a @CMakeFiles/gme_player.dir/objects1.rsp
+/usr/bin/i686-w64-mingw32-g++ -I/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include  -g -O2  -L/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib -Wl,--whole-archive CMakeFiles/gme_player.dir/objects.a -Wl,--no-whole-archive  -o gme_player.exe -Wl,--out-implib,libgme_player.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/gme_player.dir/linklibs.rsp

@@ -1,0 +1,11 @@
+prefix=@INSTALLDIR@
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: srt
+Description: SRT library set
+Version: @SRT_VERSION@
+Cflags: -I${includedir} -I${includedir}/srt
+Libs:  -L${libdir} -l@TARGET_srt@ @IFNEEDED_LINK_HAICRYPT@ @IFNEEDED_SRTBASE@ @IFNEEDED_SRT_LDFLAGS@  @SRT_LIBS_PRIVATE@
+Requires:   @SSL_REQUIRED_MODULES@

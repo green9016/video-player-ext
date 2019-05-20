@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libwavformat_static.a  CMakeFiles/wavformat_static.dir/input.obj CMakeFiles/wavformat_static.dir/output.obj
+/usr/bin/i686-w64-mingw32-ranlib libwavformat_static.a

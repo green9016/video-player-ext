@@ -1,0 +1,16 @@
+CREATE ../../lib/libQt5PlatformSupportd.a
+ADDMOD .obj/debug/qwindowsguieventdispatcher.o
+ADDMOD .obj/debug/qfbscreen.o
+ADDMOD .obj/debug/qfbbackingstore.o
+ADDMOD .obj/debug/qfbwindow.o
+ADDMOD .obj/debug/qfbcursor.o
+ADDMOD .obj/debug/qfbvthandler.o
+ADDMOD .obj/debug/qdevicediscovery_dummy.o
+ADDMOD .obj/debug/qaccessiblebridgeutils.o
+ADDMOD .obj/debug/moc_qwindowsguieventdispatcher_p.o
+ADDMOD .obj/debug/moc_qfbscreen_p.o
+ADDMOD .obj/debug/moc_qfbcursor_p.o
+ADDMOD .obj/debug/moc_qfbvthandler_p.o
+ADDMOD .obj/debug/moc_qdevicediscovery_p.o
+ADDMOD .obj/debug/moc_qdevicediscovery_dummy_p.o
+SAVE

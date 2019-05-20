@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libmpcenc_static.a  CMakeFiles/mpcenc_static.dir/analy_filter.obj CMakeFiles/mpcenc_static.dir/bitstream.obj CMakeFiles/mpcenc_static.dir/encode_sv7.obj CMakeFiles/mpcenc_static.dir/huffsv7.obj CMakeFiles/mpcenc_static.dir/quant.obj CMakeFiles/mpcenc_static.dir/__/common/crc32.obj
+/usr/bin/i686-w64-mingw32-ranlib libmpcenc_static.a

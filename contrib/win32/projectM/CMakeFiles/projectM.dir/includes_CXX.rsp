@@ -1,0 +1,1 @@
+-I/home/osboxes/Documents/vlc-3.0/contrib/win32/projectM -I/opt/local/include -I/home/osboxes/Documents/vlc-3.0/contrib/win32/projectM/Renderer -I/home/osboxes/Documents/vlc-3.0/contrib/win32/projectM/MilkdropPresetFactory 

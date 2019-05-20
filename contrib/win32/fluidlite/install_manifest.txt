@@ -1,0 +1,14 @@
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/libfluidlite.a
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidlite.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/types.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/settings.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/synth.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/sfont.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/ramsfont.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/log.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/misc.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/mod.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/gen.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/voice.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/fluidsynth/version.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib/pkgconfig/fluidlite.pc

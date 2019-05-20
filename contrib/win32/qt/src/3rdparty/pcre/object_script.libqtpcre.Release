@@ -1,0 +1,24 @@
+CREATE ../../../lib/libqtpcre.a
+ADDMOD .obj/release/pcre16_byte_order.o
+ADDMOD .obj/release/pcre16_chartables.o
+ADDMOD .obj/release/pcre16_compile.o
+ADDMOD .obj/release/pcre16_config.o
+ADDMOD .obj/release/pcre16_dfa_exec.o
+ADDMOD .obj/release/pcre16_exec.o
+ADDMOD .obj/release/pcre16_fullinfo.o
+ADDMOD .obj/release/pcre16_get.o
+ADDMOD .obj/release/pcre16_globals.o
+ADDMOD .obj/release/pcre16_jit_compile.o
+ADDMOD .obj/release/pcre16_maketables.o
+ADDMOD .obj/release/pcre16_newline.o
+ADDMOD .obj/release/pcre16_ord2utf16.o
+ADDMOD .obj/release/pcre16_refcount.o
+ADDMOD .obj/release/pcre16_string_utils.o
+ADDMOD .obj/release/pcre16_study.o
+ADDMOD .obj/release/pcre16_tables.o
+ADDMOD .obj/release/pcre16_ucd.o
+ADDMOD .obj/release/pcre16_utf16_utils.o
+ADDMOD .obj/release/pcre16_valid_utf16.o
+ADDMOD .obj/release/pcre16_version.o
+ADDMOD .obj/release/pcre16_xclass.o
+SAVE

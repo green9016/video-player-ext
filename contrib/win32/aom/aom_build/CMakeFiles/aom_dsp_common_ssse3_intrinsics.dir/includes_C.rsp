@@ -1,0 +1,1 @@
+-I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom -I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/aom_build -I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/apps -I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/common -I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/examples -I/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/stats 

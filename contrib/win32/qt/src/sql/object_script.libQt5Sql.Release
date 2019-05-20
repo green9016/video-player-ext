@@ -1,0 +1,21 @@
+CREATE ../../lib/libQt5Sql.a
+ADDMOD .obj/release/qsqlquery.o
+ADDMOD .obj/release/qsqldatabase.o
+ADDMOD .obj/release/qsqlfield.o
+ADDMOD .obj/release/qsqlrecord.o
+ADDMOD .obj/release/qsqldriver.o
+ADDMOD .obj/release/qsqldriverplugin.o
+ADDMOD .obj/release/qsqlerror.o
+ADDMOD .obj/release/qsqlresult.o
+ADDMOD .obj/release/qsqlindex.o
+ADDMOD .obj/release/qsqlcachedresult.o
+ADDMOD .obj/release/qsqlquerymodel.o
+ADDMOD .obj/release/qsqltablemodel.o
+ADDMOD .obj/release/qsqlrelationaldelegate.o
+ADDMOD .obj/release/qsqlrelationaltablemodel.o
+ADDMOD .obj/release/moc_qsqldriver.o
+ADDMOD .obj/release/moc_qsqldriverplugin.o
+ADDMOD .obj/release/moc_qsqlquerymodel.o
+ADDMOD .obj/release/moc_qsqltablemodel.o
+ADDMOD .obj/release/moc_qsqlrelationaltablemodel.o
+SAVE

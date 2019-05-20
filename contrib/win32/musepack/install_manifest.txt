@@ -1,0 +1,7 @@
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/mpcdec.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/datatypes.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/mpc_types.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/mpcmath.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/streaminfo.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/minimax.h
+/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include/mpc/reader.h

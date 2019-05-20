@@ -1,0 +1,103 @@
+
+   Configure summary
+
+Building on:   linux-g++ (x86_64, CPU features: mmx sse sse2)
+Building for:  win32-g++ (i386, CPU features: none detected)
+Platform notes:
+
+            - Also available for Linux: linux-clang linux-kcc linux-icc linux-cxx
+        
+Build options:
+  Configuration .......... accessibility avx avx2 c++11 c++14 c++1z concurrent cross_compile full-config getaddrinfo harfbuzz jpeg large-config medium-config minimal-config no-freetype no-gif no-libdl no-pkg-config no-qml-debug pcre png qpa qpa reduce_relocations release small-config sse2 sse3 sse4_1 sse4_2 ssse3 static use_gold_linker zlib 
+  Build parts ............ libs
+  Mode ................... release
+  Using sanitizer(s)...... none
+  Using C++ standard ..... c++1z
+  Using gold linker....... yes
+  Using new DTAGS ........ no
+  Using PCH .............. no
+  Using LTCG ............. no
+  Target compiler supports:
+    SSE2/SSE3/SSSE3 ...... yes/yes/yes
+    SSE4.1/SSE4.2 ........ yes/yes
+    AVX/AVX2 ............. yes/yes
+
+Qt modules and options:
+  Qt D-Bus ............... no
+  Qt Concurrent .......... yes
+  Qt GUI ................. yes
+  Qt Widgets ............. yes
+  Large File ............. yes
+  QML debugging .......... no
+  Use system proxies ..... no
+
+Support enabled for:
+  Accessibility .......... yes
+  ALSA ................... no
+  CUPS ................... no
+  DirectWrite ............ no
+  Evdev .................. no
+  FontConfig ............. no
+  FreeType ............... no
+  Glib ................... no
+  GStreamer .............. no
+  GTK theme .............. no
+  HarfBuzz ............... yes (bundled copy)
+  Iconv .................. no
+  ICU .................... no
+  Image formats: 
+    GIF .................. no
+    JPEG ................. yes (in QtGui, using bundled copy)
+    PNG .................. yes (in QtGui, using bundled copy)
+  libinput................ no
+  Logging backends: 
+    journald ............... no
+    syslog   ............... no
+  mtdev .................. no
+  Networking: 
+    getaddrinfo .......... yes
+    getifaddrs ........... no
+    IPv6 ifname .......... no
+    libproxy.............. no
+    OpenSSL .............. no
+  OpenGL / OpenVG: 
+    EGL .................. no
+    OpenGL ............... no
+    OpenVG ............... no
+  PCRE ................... yes (bundled copy)
+  pkg-config ............. no 
+  PulseAudio ............. no
+  QPA backends: 
+    DirectFB ............. no
+    EGLFS ................ no
+      EGLFS i.MX6 ........ no
+      EGLFS i.MX6 Wayland. no
+      EGLFS EGLDevice .... no
+      EGLFS GBM .......... no
+      EGLFS Mali ......... no
+      EGLFS Raspberry Pi . no
+      EGLFS X11 .......... no
+    LinuxFB .............. no
+    Mir client............ no
+    XCB .................. no
+  Session management ..... yes
+  SQL drivers: 
+    DB2 .................. no
+    InterBase ............ no
+    MySQL ................ no
+    OCI .................. no
+    ODBC ................. no
+    PostgreSQL ........... no
+    SQLite 2 ............. no
+    SQLite ............... no
+    TDS .................. no
+  tslib .................. no
+  udev ................... no
+  xkbcommon-x11........... no
+  xkbcommon-evdev......... no
+  zlib ................... yes (bundled copy)
+
+
+WARNING: Using static linking will disable the use of dynamically
+loaded plugins. Make sure to import all needed static plugins,
+or compile needed modules into the library.

@@ -1,0 +1,7 @@
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/install/strip.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/edit_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/fluidlite.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/list_install_components.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/install/local.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/fluidlite/CMakeFiles/install.dir

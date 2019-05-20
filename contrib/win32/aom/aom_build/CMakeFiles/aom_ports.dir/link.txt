@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libaom_ports.a  CMakeFiles/aom_ports.dir/aom_ports_dummy.c.obj
+/usr/bin/i686-w64-mingw32-ranlib libaom_ports.a

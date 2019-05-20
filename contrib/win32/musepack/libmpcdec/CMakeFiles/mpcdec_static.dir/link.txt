@@ -1,0 +1,2 @@
+/usr/bin/i686-w64-mingw32-ar qc libmpcdec_static.a  CMakeFiles/mpcdec_static.dir/huffman.obj CMakeFiles/mpcdec_static.dir/mpc_decoder.obj CMakeFiles/mpcdec_static.dir/mpc_reader.obj CMakeFiles/mpcdec_static.dir/streaminfo.obj CMakeFiles/mpcdec_static.dir/mpc_bits_reader.obj CMakeFiles/mpcdec_static.dir/mpc_demux.obj CMakeFiles/mpcdec_static.dir/requant.obj CMakeFiles/mpcdec_static.dir/synth_filter.obj CMakeFiles/mpcdec_static.dir/__/common/crc32.obj
+/usr/bin/i686-w64-mingw32-ranlib libmpcdec_static.a

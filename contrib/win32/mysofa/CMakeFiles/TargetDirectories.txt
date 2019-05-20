@@ -1,0 +1,17 @@
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/install/strip.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/install/local.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/package_source.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/package.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/install.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/edit_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/CMakeFiles/list_install_components.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/install/strip.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/install/local.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/install.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/package.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/package_source.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/mysofa-static.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/edit_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/mysofa/src/CMakeFiles/list_install_components.dir

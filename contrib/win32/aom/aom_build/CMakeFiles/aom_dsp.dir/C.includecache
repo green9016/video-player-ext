@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/aom_build/aom_av1_dummy.c
+
+/home/osboxes/Documents/vlc-3.0/contrib/win32/aom/aom_build/aom_dsp_dummy.c
+

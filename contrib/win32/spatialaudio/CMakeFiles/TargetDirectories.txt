@@ -1,0 +1,9 @@
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/install/local.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/install.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/package.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/package_source.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/install/strip.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/spatialaudio.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/edit_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Documents/vlc-3.0/contrib/win32/spatialaudio/CMakeFiles/list_install_components.dir

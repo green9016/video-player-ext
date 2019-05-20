@@ -1,0 +1,4 @@
+VERSION = $(shell grep LIVEMEDIA_LIBRARY_VERSION_STRING liveMedia/include/liveMedia_version.hh | sed 's/.*"\([^"]*\)".*/\1/')
+##### Change the following for your environment:
+LIBDIR = /home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/lib
+PREFIX = /home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32

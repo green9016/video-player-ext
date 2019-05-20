@@ -1,0 +1,1 @@
+-I/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/common -I/home/osboxes/Documents/vlc-3.0/contrib/i686-w64-mingw32/include -I/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/haicrypt -I/home/osboxes/Documents/vlc-3.0/contrib/win32/srt/srtcore 

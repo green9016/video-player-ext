@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/aom_av1_common.dir/av1/common/alloccommon.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/av1_inv_txfm1d.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/av1_inv_txfm2d.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/av1_loopfilter.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/av1_txfm.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/blockd.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/cdef.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/cdef_block.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/cfl.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/convolve.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/debugmodes.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/entropy.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/entropymode.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/entropymv.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/filter.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/frame_buffers.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/idct.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/mvref_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/odintrin.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/pred_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/quant_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/reconinter.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/reconintra.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/resize.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/restoration.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/scale.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/scan.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/seg_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/thread_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/tile_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/timing.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/txb_common.c.obj"
+  "CMakeFiles/aom_av1_common.dir/av1/common/warped_motion.c.obj"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/aom_av1_common.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
